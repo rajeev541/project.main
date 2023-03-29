@@ -1,0 +1,54 @@
+body{
+    background-color: aquamarine;
+}
+
+.container{
+    background-color: rgb(195, 173, 215);
+    border:1px solid black;
+    /* text-align: center; */
+    height: 420px;
+    width:390px;
+    margin: 124px 0px 0px 531px;
+    padding: 55px;
+    font-size: 20px;
+}
+.container h3{
+    margin-top: -22px;
+}
+form input{
+    border:none;
+    background-color: rgb(195, 173, 215);
+    border-bottom: 2px solid black;
+    /* width: 150px; */
+}
+.line{
+    width: 348px;
+    height: 30px;
+}
+.btn{
+    margin-left: 99px;
+    height: 39px;
+    width: 163px;
+}
+.btn:hover{
+ 
+    color: red;
+   
+
+}
+
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: -0.33em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 100px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+}
+h3{
+    text-align: center;
+}
+
